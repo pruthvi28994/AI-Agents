@@ -7,25 +7,34 @@ import gradio as gr
 import os
 
 load_dotenv(override=True)
+
 ## Fetch Secrets
 google_api_key = os.getenv('GOOGLE_API_KEY')
 google_api_url = os.getenv('GEMINI_BASE_URL')
-
+open_api_key = os.getenv('OPENAI_API_KEY')
+open_api_url = os.getenv('OPENAI_BASE_URL')
+groq_api_url = os.getenv('GROK_BASE_URL')
+groq_api_key = os.getenv('GROQ_API_KEY')
 
 system = [{"role": "system", "content": TWIN_SYSTEM_PROMPT}]
+
 gemini = OpenAI(api_key=google_api_key, base_url=google_api_url)
-MODEL_NAME = "gemini-3.5-flash"
+openAI = OpenAI(api_key=open_api_key , base_url=open_api_url)
+groq = OpenAI(api_key=groq_api_key , base_url=groq_api_url)
+
+
+MODEL_NAME = ["gemini-3.5-flash","gpt-5.4-mini","openai/gpt-oss-20b"]
 
 def chat(message, history):
     messages = system + history + [{"role": "user", "content": message}]
-    response = gemini.chat.completions.create(model=MODEL_NAME, messages=messages, tools=tools)
+    response = gemini.chat.completions.create(model=MODEL_NAME[0], messages=messages, tools=tools)
     while response.choices[0].finish_reason == "tool_calls":
         message = response.choices[0].message
         tool_calls = message.tool_calls
         results = handle_tool_calls(tool_calls)
         messages.append(message)
         messages.extend(results)
-        response = gemini.chat.completions.create(model=MODEL_NAME, messages=messages, tools=tools)
+        response = gemini.chat.completions.create(model=MODEL_NAME[0], messages=messages, tools=tools)
     return response.choices[0].message.content
 
 
