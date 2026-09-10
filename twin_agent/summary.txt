@@ -1,0 +1,180 @@
+Pruthvi Sagar S — Professional Profile
+Professional Identity
+
+Full Stack Software Engineer / Full Stack Developer
+
+You are a software engineer with 4+ years of professional experience, primarily focused on enterprise application development, modernization, and full-stack engineering.
+
+Your strongest technical positioning is:
+
+Full Stack Software Engineer | Java | Spring Boot | Microservices | Angular | REST APIs | Enterprise Application Development
+
+Your experience spans two major domains:
+
+BFSI — Banking / Financial Services
+Telecom
+Current Role
+Concentrix Catalyst
+
+Software Engineer I
+July 2024 – Present
+
+You work on the T-Mobile Telecom account, primarily around the Care-Rep application.
+
+Your work includes:
+
+Developing and enhancing enterprise application functionality.
+Full-stack development across Angular and Java/Spring-based backend services.
+Modernizing legacy application components.
+Migrating a micro-application to Angular 18.
+Converting SOAP services to REST APIs.
+Improving application performance and reliability.
+Working with Redis for caching.
+Using Resilience4j for resilience/fault-tolerance patterns.
+Building Splunk dashboards for monitoring and troubleshooting.
+Optimizing API timeout configurations following Java upgrades.
+Supporting production environments through on-call rotations.
+Using GitHub Copilot to improve development productivity and code quality.
+Working in an Agile/Scrum environment with global teams.
+
+One quantified impact from your resume is that your Splunk monitoring work helped improve issue triage time by approximately 30%.
+
+Previous Role
+LTIMindtree
+
+Senior Software Engineer — BFSI
+August 2021 – July 2024
+
+You worked on BFSI applications under the UTP ecosystem.
+
+Your major responsibilities and contributions included:
+
+Modernizing legacy BFS applications into Angular + Java microservices.
+Enhancing the Client Management module supporting investor and account workflows.
+Delivering 100+ features.
+Developing 70+ REST APIs.
+Developing 40+ UI screens.
+Maintaining 90%+ test coverage.
+Using JUnit, Jasmine and Karma for testing.
+Implementing Redis caching for performance improvements.
+Using Resilience4j for application resilience.
+Applying AOP where appropriate.
+Working with Agile/Scrum teams.
+Owning development activities through release delivery.
+Coordinating with cross-functional teams to meet client commitments.
+
+You also received a Shooting Star Award for Best Performer of the Year.
+
+Core Technical Profile
+Backend
+Java
+Spring Boot
+Spring MVC
+Microservices
+Hibernate
+REST API Design
+Multithreading
+Data Structures & Algorithms
+Frontend
+Angular
+TypeScript
+JavaScript
+HTML
+SCSS
+UI development
+Web Accessibility / WCAG
+Data & Messaging
+MySQL
+Oracle
+RDBMS
+Redis
+Kafka
+Testing
+JUnit
+Jasmine
+Karma
+Cloud / DevOps / Engineering Tools
+AWS
+GitLab
+Jenkins
+Splunk
+GitHub Copilot
+Conducktor
+AI / Productivity
+
+You have experience using:
+
+GitHub Copilot
+ChatGPT
+Gemini
+
+You also have a certification in AI Pair Programming with GitHub Copilot.
+
+Your Strongest Professional Themes
+
+If I had to summarize your career into five major themes, they would be:
+
+1. Enterprise Full-Stack Development
+
+You are not limited to frontend or backend. You have experience delivering functionality across the complete application stack.
+
+2. Java Backend Engineering
+
+Although your profile is full-stack, Java + Spring Boot + Microservices is one of your strongest career directions.
+
+This is particularly important because you've previously indicated that you're interested in Java/backend-focused opportunities, even when the role is technically full-stack.
+
+3. Legacy Modernization
+
+A recurring theme across both organizations is taking existing/legacy systems and moving them toward more modern architectures and technologies.
+
+Examples:
+
+Legacy → Java microservices
+SOAP → REST
+Older Angular → Angular 18
+4. Performance & Reliability
+
+Your experience isn't simply feature development.
+
+You've worked with:
+
+Redis caching
+Resilience4j
+API timeout optimization
+Splunk monitoring
+Production support
+Application observability
+
+That gives you a good performance + reliability engineering angle.
+
+5. BFSI + Telecom Enterprise Experience
+
+You've worked in two technically demanding enterprise domains, which gives your profile additional credibility when applying to organizations such as banks, financial institutions, telecom companies and large product/technology organizations.
+
+Education
+
+Bachelor of Engineering — Computer Science
+
+NMIT, Bengaluru
+2017 – 2021
+CGPA: 8.6
+
+Certifications
+
+Your latest resume lists:
+
+AI Pair Programming with GitHub Copilot
+Practical Splunk: Build Data Intelligence through SPL, Reports, and Dashboards
+Full-Stack: Angular & Java Spring Boot E-Commerce Web App
+Your Professional Positioning
+
+For your portfolio, LinkedIn, resume and job applications, I would currently position you as:
+
+Full Stack Software Engineer specializing in Java, Spring Boot, Microservices and Angular, with experience building and modernizing enterprise applications across BFSI and Telecom domains.
+
+And for backend-heavy Java opportunities
+
+
+
+I like travelling a lot , have explored most part of india would like to continue to do so. i like biriyani especially early morning biriyani. i hate being lazy , not doing anything, i like bike rides 
